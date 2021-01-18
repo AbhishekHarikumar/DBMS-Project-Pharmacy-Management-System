@@ -1,1 +1,1 @@
-# DBMS-mini-Project-
+# DBMS-mini-Project-Pharmacy-Management-system
